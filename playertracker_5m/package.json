@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@discordjs/rest": "^1.0.1",
+    "discord.js": "^14.2.0",
+    "dotenv": "^16.0.1",
+    "mongoose": "^6.4.2",
+    "path": "^0.12.7",
+    "readline": "^1.3.0"
+  },
+  "name": "playertracker_5m",
+  "version": "1.0.0",
+  "description": "A simple script to read and save player stats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tuna Terps",
+  "license": "ISC"
+}
