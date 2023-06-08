@@ -15,4 +15,4 @@ A nodejs script intended to be run outside the scripting environment of your fiv
 2.) Extract contents of FiveM-Player-Tracker to your txAdmin folder 
 3.) Extract node_modules folder to your FiveM-Player-Tracker folder
 4.) Edit .env folder with the desired credentials **more detail to follow** 
-5.) Utilizing either powershell cd to folder and invoke node index.js or you can use .bat in directory
+5.) Utilizing either powershell cd to folder and invoke node index.js or you can use .bat in  directory
